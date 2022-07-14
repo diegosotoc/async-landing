@@ -4,7 +4,7 @@
   "description": "Asynchronous landing web page using JS, HTML and CSS",
   "main": "index.js",
   "scripts": {
-    "deploy": "gp-pages -d src"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
